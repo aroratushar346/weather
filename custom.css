@@ -8,6 +8,7 @@ body{
  background-color: #3b3939;
  background-image:url(rain.jpg);
  background-size: cover;
+ background-repeat: no-repeat;   
 }
 
 .card{
